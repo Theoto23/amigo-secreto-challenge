@@ -1,6 +1,6 @@
 Amigo Secreto 🎁
 
-Este es un proyecto simple de una aplicación web que permite a los usuarios ingresar nombres en una lista y realizar un sorteo aleatorio para determinar quién es el "amigo secreto".
+Este proyecto de aplicación web, permite a los usuarios ingresar nombres en una lista y realizar un sorteo aleatorio para determinar quién es el "amigo secreto".
 
 🚀 Funcionalidades
 
